@@ -1,0 +1,30 @@
+_repo: Hero-Tales-and-Legends-of-the-Rhine_16539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spence, Lewis
+    alias: Spence, James Lewis Thomas Chalmers
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '5707'
+    url: http://www.gutenberg.org/2009/agents/5707
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
+description: ''
+gutenberg_issued: '2005-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Rhine River Valley'
+- !lcsh 'Legends -- France'
+- !lcc 'GR'
+- !lcsh 'Legends -- Germany'
+title: Hero Tales and Legends of the Rhine
+url: http://www.gutenberg.org/ebooks/16539
